@@ -1,0 +1,8 @@
+{
+  "name": "Remix: System Design Practice Tool",
+  "description": "An interactive, staged canvas tool for practicing system design by placing, connecting, and justifying architecture components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
